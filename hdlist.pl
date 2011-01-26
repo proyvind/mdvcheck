@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# Copyright, (C) Per Oyvind Karlsen, 2011
+# Copyright, (C) Per Øyvind Karlsen, 2011
 #
 
 use URPM;
